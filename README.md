@@ -1,7 +1,7 @@
 # Ribbon WebRTC Android SDK
 
 <p>
-    <img alt="GitHub release" src="https://img.shields.io/github/v/release/RibbonCommunications/webrtc-android-sdk">
+    <img alt="GitHub release" src="https://img.shields.io/github/v/release/ribboncommunications.github.io/webrtc-android-sdk">
 </p>
 
 ## Install
@@ -24,7 +24,7 @@ Compatible Android OS versions :
 
 Compatible WebRTC GW Server versions :
 
-* WebRTC GW 4.10.0
+* WebRTC GW 4.8.1
 
 * WebRTC GW 4.9.1
 
